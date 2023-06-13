@@ -1,1 +1,1 @@
-# This notebook contains use of Numpy and Pandas
+# This notebook contains Assignment solutions of Ineuron.
